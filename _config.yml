@@ -1,6 +1,6 @@
 name: DC Photography Boston
 favicon: null
-layout_spectrum: 0.7823362585622817
+layout_spectrum: 0.91485
 typography_spectrum: 0.6905483698938042
 cta:
   domain: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.47338314773514867
+  brandColors:
+    - '#ffffff'
+    - '#01066e'
+    - '#0000ff'
+    - '#393c8e'
+    - '#8a8cb1'
+  brandStrength: 1
   lightness: 0.12819915264844894
   saturation: 0.6250422063749284
   rhythmicContrast: 0.881965538021177
