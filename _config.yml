@@ -1,28 +1,40 @@
-name: DC Photography Boston
-favicon: null
-layout_spectrum: 0.91485
-typography_spectrum: 0.34576
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 1
+  saturation: 1
   brandColors:
     - '#ffffff'
     - '#01066e'
     - '#0000ff'
     - '#393c8e'
     - '#8a8cb1'
-  brandStrength: 1
   lightness: 1
-  saturation: 1
   rhythmicContrast: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.91485
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: DC Photography Boston
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.34576
